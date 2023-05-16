@@ -42,3 +42,13 @@
 .card-body{
     background-color: rgb(148, 5, 117);
 }
+.footer{
+    background-color: rgb(148, 5, 117);
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.portafolio{
+    font-size: 40px;
+}
