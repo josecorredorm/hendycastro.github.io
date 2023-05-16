@@ -1,0 +1,25 @@
+.navbar{
+    background-color: rgb(148, 5, 117);
+}
+.navbar-brand{
+    color: white;
+    font-size: 30px;
+}
+.btn{
+    background-color: rgb(255, 255, 255);
+}
+.btn-outline-success{
+    color:rgb(148, 5, 117);
+    font-size: 20px;
+}
+.foto{
+    width: 300px;
+    height: 350px;
+    border-radius: 70px;
+    box-shadow: 10px 10px 10px rgb(148, 5, 117);
+}
+.grid{
+    display: flex;
+    position: relative;
+    background-color: rgb(148, 5, 117);
+}
