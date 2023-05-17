@@ -51,11 +51,13 @@
 }
 .row{
     margin: 100px;
+    justify-content: center;
 }
 .row__1{
     margin: 50px;
 }
-.card-presentacion{
+.card-header{
     display: flex;
     justify-content: center;
+    background-color: rgb(148, 5, 117);
 }
